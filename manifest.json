@@ -1,0 +1,11 @@
+{
+	"id": "mindhorn",
+	"name": "MindHorn",
+	"version": "0.0.5",
+	"minAppVersion": "1.7.7",
+	"description": "Securely access privately hosted AI services",
+	"author": "popviz",
+	"authorUrl": "https://localhost",
+	"fundingUrl": "https://localhost/fundme",
+	"isDesktopOnly": false
+}
